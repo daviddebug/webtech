@@ -1,0 +1,168 @@
+LUC-NGA-001-ADM-1000-345 ( David dung)
+
+class activity
+
+
+
+
+
+
+
+
+
+Here are 100 HTML tags , with
+ example  each:
+1. <!DOCTYPE> - This is the very first tag in an HTML document , and it defines the document type.
+2. <html> - The <html> tag defines the start of an HTML document.
+3. <head> - The <head> tag contains information about the page , such as its title and description.
+4. <title> - The <title> tag defines the title of the page.
+5. <meta> - The <meta> tag provides information about the document.
+6. <link> - The <link> tag links to another resource , such as a stylesheet or external script.
+7. <style> - The <style> tag contains CSS code that styles the page.
+8. <script> - The <script> tag contains JavaScript code that adds functionality to the page.
+
+9. <h1> - The <h1> tag defines a level 1 heading.
+10. <h2> - The <h2> tag defines a level 2 heading.
+11. <h3> - The <h3> tag defines a level 3 heading.
+12. <h4> - The <h4> tag defines a level 4 heading.
+13. <h5> - The <h5> tag defines a level 5 heading.
+14. <h6> ...<h6> tag defines a level 6 heading.
+15. <p> - The <p> tag defines a paragraph.
+16. <ul> - The <ul> tag defines an unordered list.
+17. <ol> - The <ol> tag defines an ordered list.
+
+18. <li> - The <li> tag defines a list item.
+19. <dl> - The <dl> tag defines a definition list.
+20. <dt> - The <dt> tag defines a term in a definition list.
+21. <dd> - The <dd> tag defines a description in a definition list.
+22. <pre> - The <pre> tag defines preformatted text.
+23. <blockquote> - The <blockquote> tag defines a block quotation.
+24. <address> - The <address> tag defines the contact information for the author of a document.
+25. <abbr> - The <abbr> tag defines an abbreviation.
+26. <acronym> - The <acronym> tag defines an acronym.
+27. <bdo> - The <bdo> tag defines the text direction for its content.
+28. <br> - The <br> tag creates a line break.
+29. <cite> - The <cite> tag defines the title of a work.
+30. <code> - The <code> tag defines a piece of computer code.
+31. <del> - The <del> tag defines deleted text.
+32. <em> - The <em> tag defines emphasized text.
+33. <hr> - The <hr> tag defines a thematic break.
+
+34. <i> - The <i> tag defines text in an alternate voice or mood.
+35. <ins> - The <ins> tag defines inserted text.
+36. <kbd> - The <kbd> tag defines keyboard input.
+37. <map> - The <map> tag defines an image map.
+38. <noscript> - The <noscript> tag defines alternate content for browsers that do not support scripts.
+39.<body>...<body>
+the body tag is used to in pit what  will display on the web 
+40.<inpute><input>
+this is a tag that provides an inpute space for the client,in order to collect information from the client.
+41:<input type.  />. this is tag that indicates a type of information required from the client either numeric or alphabetical & password
+
+42<embed> , this is an HTML tag that is used to embed an external resource into a webpage. This could be anything from a video to an interactive map or even a game.
+,43 <var> is used to define a variable in a mathematical expression. It's not used very often in HTML , but it's important for web developers who need to use mathematical equations on their pages.
+
+44<thead> is a tag used to define the header of a table. This is where you would put things like column titles and other information that applies to the entire table.
+45<tfoot> is similar to <thead> , but it's used to define the footer of a table. This is where you would put information like a total or summary of the data in the table.
+
+46<tracks> is used to define different tracks of timed media like video or audio. This is useful for things like subtitles or caption.
+
+
+47<a> - used to create hyperlinks.
+48<abbr> - used to define an abbreviation.
+49<acronym> - used to define an acronym.
+50<address> - used to identify contact information for the author of a document.
+51<applet> - used to embed an applet into a webpage.
+52<article> - used to define independent , self-contained content.
+53<aside> - used to define content that is related to the main content of a webpage , but not essential to its understanding.
+54<b> - used to bold text.
+55<base> - used to define the base URL for a webpage.
+56<blockquote> - used to define a block of quoted text.
+57<body> - used to define the main content of a webpage.
+58<br> - used to insert a line break.
+You're right , I still have a few more to go! Here's the next batch:
+59<caption> - used to define a table caption.
+60<center> - used to center text or other content.
+61<cite> - used to define a citation.
+62<code> - used to define computer code.
+63<col> - used to define column properties for a table.
+
+64<colgroup> - used to group columns in a table.
+
+65. <a> - used to create hyperlinks.
+66. <abbr> - used to define an abbreviation.
+
+67. <acronym> - used to define an acronym.
+
+68. <address> - used to identify contact information for the author of a document.
+69. <applet> - used to embed an applet into a webpage.
+
+70. <aside> - used to define content that is related to the main content of a webpage , but not essential to its understanding.
+71. <b> - used to bold text.
+
+72. <base> - used to define the base URL for a webpage.
+
+73. <blockquote> - used to define a block of quoted text.
+
+78. <body> - used to define the main content of a webpage.
+Okay , here we go:
+
+79.<caption> - used to define a table caption.
+
+80.<center> - used to center text or other content.
+
+81.<cite> - used to define a citation.
+
+82<code> - used to define computer code.
+
+83.<col> - used to define column properties for a table.
+
+
+84.<colgroup> - used to group columns in a table.
+
+85.<data> - used to define machine-readable data.
+
+85. <dd> - used to define a description in a definition list.
+
+86. <del> - used to define deleted text.
+
+87. <dfn> - used to define the defining instance of a term.
+
+88. <dir> - used to define a directory.
+
+89. <div> - used to define a section in a document.
+
+90. <dl> - used to define a definition list.
+
+91. <dt> - used to define a term in a definition list.
+
+92. <em> - used to emphasize text.
+93. <embed> - used to embed an external resource.
+94. <fieldset> - used to group related form controls.
+95. <figcaption> - used to define a figure caption.
+96. <figure> - used to define a self-contained flow content.
+97. <footer> - used to define a footer for a section.
+98.
+99. <form> - used to define a form.
+100. <frame> - used to define a window (frame) within a frameset.
+
+
+
+
+
+2:A manifest file in HTML5 is a text file that describes the resources that are needed for a web application. It's a way to specify the files that should be loaded when the application is launched. This is useful for creating offline capable web applications. 
+
+3. example of how to use microdata in HTML5. In this example , i'll create a recipe using the hRecipe microdata vocabulary:
+
+<article>
+<h1>My yummy chocolate chip cookie recipe</h1>
+<h2>Ingredients</h2>
+<ul>
+<li><span itemscope itemtype="http://schema.org/Ingredient">1 cup butter</span></li>
+<li><span itemscope itemtype="http://schema.org/Ingredient">2 cups sugar</span></li>
+4.the following command line shows how to include audio and video in a web.
+
+<audio src="song.mp3" controls></audio>
+For video , you would use the <video> element , like this:
+<video src="movie.mp4" controls></video>.
+5:Tags and attributes are the building blocks of HTML. Tags are elements that define the structure of a web page , such as headings , paragraphs , and lists. Attributes are used to provide additional information about a tag , such as its style or behavior. For example , the <p> tag is used to create a paragraph , and the <p> tag can have attributes such as class , id , and style.
